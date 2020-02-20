@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Gavin Davenport programming portfollio 2020
 
 You can use the [editor on GitHub](https://github.com/GavindAvenport/2020Programming1-B1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
